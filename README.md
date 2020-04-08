@@ -2,6 +2,7 @@
 Simple Python3 script that plots historical data on Novel Coronavirus on log-log scale
 It takes data from https://github.com/NovelCOVID/API and creates a plot of new cases against total cases
 This should show the trend of spread of the virus based on MinutePhysics video - https://www.youtube.com/watch?v=54XLXg4fYsc
+
 Made on RaspberryPi by a hobbist programer
 
 Usage:
