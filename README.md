@@ -5,12 +5,17 @@ This should show the trend of spread of the virus based on MinutePhysics video -
 
 Usage:
 
-'python3 corona2.py -c <Country Name>'
+`python3 corona2.py -c <Country Name>`
 or
-'python corona2.py -c <Country Name>'
+`python corona2.py -c <Country Name>`
 Depending on your setup
 
 Dependencies:
 Pandas, Matplotlib, Json
-If they are not in your system try:
-'pip3 install pandas matplotlib json'
+
+Instalation on RaspberryPi:
+```
+sudo apt install python3 git
+pip3 install pandas matplotlib json
+git clone https://github.com/lordofda/NovelCOVID_log_plotter
+```
