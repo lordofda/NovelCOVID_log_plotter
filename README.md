@@ -21,3 +21,7 @@ sudo apt install python3 git
 pip3 install pandas matplotlib json
 git clone https://github.com/lordofda/NovelCOVID_log_plotter
 ```
+
+
+For interactive and more advanced simulation look here (not mine):
+https://aatishb.com/covidtrends/
